@@ -1,1 +1,11 @@
 
+Crreation of simple persistance logic application where data is save in database using Hibernate frame work
+libraries and tools in use:- 
+                           - config.xml
+                           - SessionFactory
+                           - Sessions
+                           - Anotations
+                           - Sqlyog
+                           - POJO
+                           
+                           
